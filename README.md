@@ -1,4 +1,4 @@
-# case_study_2_pizzarunner
+# Case Study #2 Pizza Runner
 Solutions to Week 2 SQL Challenge - Case Study #2 Pizza Runner
 
 <a href="https://8weeksqlchallenge.com/case-study-2/">
